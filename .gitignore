@@ -32,3 +32,14 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Foundry build artifacts
+cache/
+out/
+
+# Node modules (if ever used)
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
