@@ -1,0 +1,31 @@
+{
+  "audit_log": [
+    {
+      "timestamp": "2025-08-25T00:39:00+08:00",
+      "from": "China",
+      "to": "Canada",
+      "new_sanctum_address": "0xDeaDbeefdEAdbeefdEadbEEFdeadbeEFdEaDbeeF",
+      "reason": "Wildcard diplomacy activated, emotional APR sync confirmed",
+      "scrollsmith": "Vinvin",
+      "fallback": false
+    },
+    {
+      "timestamp": "2025-08-25T00:42:00+08:00",
+      "from": "China",
+      "to": "Japan",
+      "new_sanctum_address": "0x1234567890abcdef1234567890abcdef12345678",
+      "reason": "Scrollsmith precision and ancestral clarity",
+      "scrollsmith": "Vinvin",
+      "fallback": false
+    },
+    {
+      "timestamp": "2025-08-25T00:45:00+08:00",
+      "from": "China",
+      "to": "FallbackSanctum",
+      "new_sanctum_address": "0xDeaDbeefdEAdbeefdEadbEEFdeadbeEFdEaDbeeF",
+      "reason": "Emergency reroute triggered due to breach or distortion",
+      "scrollsmith": "Vinvin",
+      "fallback": true
+    }
+  ]
+}
